@@ -1,7 +1,7 @@
 Summary:	OpenCascade based MESH framework
 Name:		smesh
 Version:	6.5.3.1
-Release:	1
+Release:	2
 License:	LGPLv2
 Group:		Libraries
 URL:		https://github.com/tpaviot/smesh
