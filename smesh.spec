@@ -1,12 +1,12 @@
 Summary:	OpenCascade based MESH framework
 Name:		smesh
-Version:	6.5.3.1
-Release:	2
+Version:	6.7.4
+Release:	1
 License:	LGPLv2
 Group:		Libraries
 URL:		https://github.com/tpaviot/smesh
 Source0:	https://github.com/tpaviot/smesh/archive/%{version}.tar.gz
-# Source0-md5:	4555a5783769a23b820ba8fec96e3a17
+# Source0-md5:	6f7067745c62a8b8183d880963df57f8
 BuildRequires:	FreeImage-devel
 BuildRequires:	Mesa-libGLU-devel
 BuildRequires:	OCE-devel
